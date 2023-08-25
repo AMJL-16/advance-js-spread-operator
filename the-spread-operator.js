@@ -2,6 +2,11 @@
  * To run this file in Gitpod, use the 
  * command node the-spread-operator.js in the terminal
  */
+/* The spread operator is used commonly in modern 
+JavaScript frameworks, libraries and APIs.
+You can think of it as a safe, modern way to duplicate
+part or all an array or object.*/ 
+
 
 // No spread operator
 let arr1 = [1,2,3];
